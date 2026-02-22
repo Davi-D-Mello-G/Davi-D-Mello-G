@@ -20,13 +20,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/debysouza/debysouza/output/github-contribution-grid-snake.svg">
 </picture>
 
----
-
-Este é Valério, o mascote:
-
-![ClipWindowsGIF](https://github.com/user-attachments/assets/ae764af9-2eb2-4fa9-8d8c-bac0d3aa28e5)
-
-
 
 
 
