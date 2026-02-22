@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=aws&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=HTML&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
 
 ---
 
