@@ -3,7 +3,6 @@
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@nothing_nada_)
 
-![DAVI DE MELLO GitHub stats](https://github-readme-stats.vercel.app/api?username=DMelloD-gif&show_icons=true&theme=highcontrast)
 
 
 <h2>Habilidade em:</h2>
@@ -11,6 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=aws&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=HTML&theme=dark)](https://skillicons.dev)
 
 ---
 
